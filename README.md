@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav
 - 👀 I’m interested in Automation Testing, Playwright
-- 🌱 I’m currently learning playwright, visual automation testing and accessbility testing.
-- 💞️ I’m looking to collaborate on automation testing. mostly on playwright, visual automation testing and accessbility automation testing AXE.
+- 🌱 I’m currently learning playwright, visual automation testing and accessibility testing.
+- 💞️ I’m looking to collaborate on automation testing. mostly on playwright, visual automation testing and accessibility 
 - 📫 How to reach me - https://www.linkedin.com/in/pranav2pk/
 
 <!---
